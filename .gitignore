@@ -1,8 +1,6 @@
 .idea
 node_modules
 .DS_Store
-dist
-dist-ssr
 *.local
 src/components/application-ui
 src/components/ecommerce
